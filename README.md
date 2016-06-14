@@ -1,7 +1,7 @@
 Welcome to OpenRAVE
 -------------------
 
-`Official OpenRAVE Homepage <http://openrave.org>`_
+[Official OpenRAVE Homepage](<http://openrave.org>)
 
 If installing dependencies from debian does not work do the following
 ```
